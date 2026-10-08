@@ -299,12 +299,3 @@ Summarize this sprint
 ```
 
 The router decides which part of the agent graph should handle each command.
-
-## Resume Version
-
-- Built Tasklane, a full-stack task tracker using React, Express, Firebase Auth, and Firestore, deployed on Google Cloud Run and Firebase Hosting with authenticated REST APIs and real-time Firestore updates.
-- Designed a LangGraph-based agent with an LLM intent router, conditional task operations, and per-user memory to convert natural-language commands into Firestore operations.
-
-## License
-
-MIT
